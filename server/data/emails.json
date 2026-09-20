@@ -1,0 +1,213 @@
+[
+  {
+    "threadId": "thread-1",
+    "subject": "Vendor List",
+    "emails": [
+      {
+        "date": "2026-09-21",
+        "time": "09:50",
+        "from": "raghav.sethi@veridian-corp.example",
+        "to": "arjun.malhotra@veridian-corp.example",
+        "message": "Following up from the sync — can you send the updated vendor list today?"
+      },
+      {
+        "date": "2026-09-21",
+        "time": "17:40",
+        "from": "arjun.malhotra@veridian-corp.example",
+        "to": "raghav.sethi@veridian-corp.example",
+        "message": "Running behind, will send first thing tomorrow morning instead."
+      },
+      {
+        "date": "2026-09-22",
+        "time": "09:15",
+        "from": "raghav.sethi@veridian-corp.example",
+        "to": "arjun.malhotra@veridian-corp.example",
+        "message": "No worries, whenever you get a chance today works."
+      },
+      {
+        "date": "2026-09-22",
+        "time": "18:30",
+        "from": "arjun.malhotra@veridian-corp.example",
+        "to": "raghav.sethi@veridian-corp.example",
+        "message": "Sorry, got pulled into board prep — will send by tomorrow (Wednesday) morning for sure."
+      },
+      {
+        "date": "2026-09-23",
+        "time": "08:45",
+        "from": "raghav.sethi@veridian-corp.example",
+        "to": "arjun.malhotra@veridian-corp.example",
+        "message": "Just checking — still good for this morning?"
+      }
+    ]
+  },
+  {
+    "threadId": "thread-2",
+    "subject": "Q3 Campaign Deck",
+    "emails": [
+      {
+        "date": "2026-09-21",
+        "time": "11:00",
+        "from": "neha.kapoor@veridian-corp.example",
+        "to": "arjun.malhotra@veridian-corp.example",
+        "message": "Deck's coming together, still targeting Wednesday for your review."
+      },
+      {
+        "date": "2026-09-22",
+        "time": "16:15",
+        "from": "neha.kapoor@veridian-corp.example",
+        "to": "arjun.malhotra@veridian-corp.example",
+        "message": "Heads up — shifting the review to Thursday morning instead of Wednesday, need one more day on the data slides."
+      },
+      {
+        "date": "2026-09-23",
+        "time": "10:00",
+        "from": "arjun.malhotra@veridian-corp.example",
+        "to": "neha.kapoor@veridian-corp.example",
+        "message": "Understood, Thursday morning works. What time exactly?"
+      },
+      {
+        "date": "2026-09-23",
+        "time": "10:20",
+        "from": "neha.kapoor@veridian-corp.example",
+        "to": "arjun.malhotra@veridian-corp.example",
+        "message": "Let's say 9:30 AM Thursday, before your board prep block."
+      },
+      {
+        "date": "2026-09-24",
+        "time": "08:00",
+        "from": "neha.kapoor@veridian-corp.example",
+        "to": "arjun.malhotra@veridian-corp.example",
+        "message": "Deck is ready, attaching the draft ahead of our 9:30 review."
+      }
+    ]
+  },
+  {
+    "threadId": "thread-3",
+    "subject": "Call Reschedule",
+    "emails": [
+      {
+        "date": "2026-09-21",
+        "time": "13:00",
+        "from": "priya.nair@meridianlogistics.example",
+        "to": "arjun.malhotra@veridian-corp.example",
+        "message": "Our scheduled call this week got bumped from our side — can you propose a new time? We're flexible Tuesday–Thursday afternoons."
+      },
+      {
+        "date": "2026-09-22",
+        "time": "15:00",
+        "from": "arjun.malhotra@veridian-corp.example",
+        "to": "priya.nair@meridianlogistics.example",
+        "message": "Apologies for the delay — how about Wednesday 3:00 PM?"
+      },
+      {
+        "date": "2026-09-22",
+        "time": "17:45",
+        "from": "priya.nair@meridianlogistics.example",
+        "to": "arjun.malhotra@veridian-corp.example",
+        "message": "Wednesday 3 PM works on our end, confirmed."
+      },
+      {
+        "date": "2026-09-23",
+        "time": "13:30",
+        "from": "priya.nair@meridianlogistics.example",
+        "to": "arjun.malhotra@veridian-corp.example",
+        "message": "Quick check — still on for 3 PM today?"
+      },
+      {
+        "date": "2026-09-23",
+        "time": "14:00",
+        "from": "arjun.malhotra@veridian-corp.example",
+        "to": "priya.nair@meridianlogistics.example",
+        "message": "Yes, confirmed, see you at 3."
+      }
+    ]
+  },
+  {
+    "threadId": "thread-4",
+    "subject": "Expense Variance Report",
+    "emails": [
+      {
+        "date": "2026-09-21",
+        "time": "14:30",
+        "from": "divya.rao@veridian-corp.example",
+        "to": "arjun.malhotra@veridian-corp.example",
+        "message": "Starting on the July variance numbers, targeting Thursday morning for board prep as discussed."
+      },
+      {
+        "date": "2026-09-22",
+        "time": "09:00",
+        "from": "arjun.malhotra@veridian-corp.example",
+        "to": "divya.rao@veridian-corp.example",
+        "message": "Actually, can I get it by Wednesday evening instead? Want time to review before Thursday."
+      },
+      {
+        "date": "2026-09-22",
+        "time": "09:40",
+        "from": "divya.rao@veridian-corp.example",
+        "to": "arjun.malhotra@veridian-corp.example",
+        "message": "Wednesday evening is tight but doable, I'll prioritize it."
+      },
+      {
+        "date": "2026-09-23",
+        "time": "18:00",
+        "from": "divya.rao@veridian-corp.example",
+        "to": "arjun.malhotra@veridian-corp.example",
+        "message": "Report attached, sent as promised."
+      },
+      {
+        "date": "2026-09-23",
+        "time": "18:10",
+        "from": "arjun.malhotra@veridian-corp.example",
+        "to": "divya.rao@veridian-corp.example",
+        "message": "Got it, thank you — exactly what I needed before tomorrow."
+      }
+    ]
+  },
+  {
+    "threadId": "thread-5",
+    "subject": "Mumbai Office Lease Renewal",
+    "emails": [
+      {
+        "date": "2026-09-21",
+        "time": "10:15",
+        "from": "facilities@veridian-corp.example",
+        "to": "All Staff",
+        "message": "Reminder: the Mumbai office lease renewal requires an authorized signature by Friday, 25 September."
+      },
+      {
+        "date": "2026-09-22",
+        "time": "11:00",
+        "from": "raghav.sethi@veridian-corp.example",
+        "to": [
+          "arjun.malhotra@veridian-corp.example",
+          "divya.rao@veridian-corp.example"
+        ],
+        "message": "Following up from the sync — has anyone confirmed who's signing off on the Mumbai renewal? Don't think it's been assigned."
+      },
+      {
+        "date": "2026-09-23",
+        "time": "09:30",
+        "from": "divya.rao@veridian-corp.example",
+        "to": [
+          "raghav.sethi@veridian-corp.example",
+          "arjun.malhotra@veridian-corp.example"
+        ],
+        "message": "Not on my end — I believe this typically sits with Facilities directly, not us."
+      },
+      {
+        "date": "2026-09-24",
+        "time": "16:00",
+        "from": "facilities@veridian-corp.example",
+        "to": "All Staff",
+        "message": "Second reminder: signature is still pending. Deadline is Friday, 25 September, end of day."
+      },
+      {
+        "date": "2026-09-24",
+        "time": "16:45",
+        "from": "raghav.sethi@veridian-corp.example",
+        "to": "arjun.malhotra@veridian-corp.example",
+        "message": "This is now one day out and still unowned — can you confirm who's handling it?"
+      }
+    ]
+  }
+]

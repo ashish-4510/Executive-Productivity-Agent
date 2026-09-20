@@ -1,0 +1,16 @@
+[
+  {
+    "id": "meeting-001",
+    "title": "Leadership Sync",
+    "date": "2026-09-21",
+    "startTime": "09:00",
+    "endTime": "09:35",
+    "attendees": [
+      "Arjun Malhotra",
+      "Neha Kapoor",
+      "Raghav Sethi",
+      "Divya Rao"
+    ],
+    "transcript": "Arjun asked Neha about the Q3 campaign deck. Neha said the draft was 80% done and would be sent to Arjun for review by Wednesday. Arjun reminded himself that he had promised Raghav the updated vendor list by the end of the next day. Raghav mentioned that the Mumbai office renewal paperwork needed someone to sign off this week, but ownership was unclear. Divya believed it was probably Facilities but had not seen anyone pick it up. Arjun asked Divya to pull the July expense variance report before Thursday board preparation. Divya said she would have it ready Wednesday evening. Arjun also noted that the Meridian Logistics client call had been pushed and he needed to reconfirm the new time himself. Neha later clarified that the campaign deck review would be safer on Thursday morning."
+  }
+]
